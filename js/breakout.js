@@ -14,7 +14,7 @@ ctx.fill();
 ctx.closePath();
 
 ctx.beginPath();
-ctx.rect(1600, 10, 100, 40);
-ctx.strokeStyle = "rgba(0, 0, 255, 0.5)";
-ctx.stroke();
+ctx.rect(430, 270, 40, 40);
+ctx.fillStyle = "#FFFF00";
+ctx.fill();
 ctx.closePath();
